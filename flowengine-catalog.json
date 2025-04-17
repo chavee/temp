@@ -1,0 +1,31 @@
+ [
+  {
+    name: 'NETPIE',
+    iconUrl: 'https://github.com/chavee/microBlock-NETPIE-extension/raw/master//static/icon.png',
+    description: 'Module to connect to NETPIE IoT platform. Include shadow, messeging, feed and push notification.',
+    author: 'NEXPIE Company',
+    version: '1.5.1'
+  },
+  {
+    name: 'MongoDB',
+    iconUrl: 'https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg',
+    description: 'MongoDB Explained. MongoDB is a NoSQL database that uses a document-oriented data model, where each record is a document stored in a collection, instead of the rows and columns common to popular relational databases',
+    author: 'NEXPIE Company',
+    version: '2.0.1'
+  },
+  {
+    name: 'MySQL',
+    iconUrl: 'https://img.icons8.com/?size=160&id=rgPSE6nAB766&format=png',
+    description: 'MySQL is an open source RDBMS that uses SQL to create and manage databases. As a relational database, MySQL stores data in tables of rows and columns organized into schemas. A schema defines how data is organized and stored and describes the relationship among various tables.',
+    author: 'NEXPIE Company',
+    version: '1.0.3'
+  },
+  {
+    name: 'One Platform',
+    iconUrl: 'https://chat.one.th/static/img/homepage/icon/one2x.png',
+    description: 'แอปพลิเคชันสำหรับรวบรวมบริการของบริษัท อินเทอร์เน็ตประเทศไทย จำกัด (มหาชน) และบริษัทในเครือ เพื่อใช้สำหรับบุคลากรภายในและลูกค้าที่ใช้บริการขององค์กร',
+    author: 'NEXPIE Company',
+    version: '1.2.0'
+  },
+ 
+]
