@@ -1,31 +1,43 @@
- [
-  {
-    name: 'NETPIE',
-    iconUrl: 'https://github.com/chavee/microBlock-NETPIE-extension/raw/master//static/icon.png',
-    description: 'Module to connect to NETPIE IoT platform. Include shadow, messeging, feed and push notification.',
-    author: 'NEXPIE Company',
-    version: '1.5.1'
-  },
-  {
-    name: 'MongoDB',
-    iconUrl: 'https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg',
-    description: 'MongoDB Explained. MongoDB is a NoSQL database that uses a document-oriented data model, where each record is a document stored in a collection, instead of the rows and columns common to popular relational databases',
-    author: 'NEXPIE Company',
-    version: '2.0.1'
-  },
-  {
-    name: 'MySQL',
-    iconUrl: 'https://img.icons8.com/?size=160&id=rgPSE6nAB766&format=png',
-    description: 'MySQL is an open source RDBMS that uses SQL to create and manage databases. As a relational database, MySQL stores data in tables of rows and columns organized into schemas. A schema defines how data is organized and stored and describes the relationship among various tables.',
-    author: 'NEXPIE Company',
-    version: '1.0.3'
-  },
-  {
-    name: 'One Platform',
-    iconUrl: 'https://chat.one.th/static/img/homepage/icon/one2x.png',
-    description: 'แอปพลิเคชันสำหรับรวบรวมบริการของบริษัท อินเทอร์เน็ตประเทศไทย จำกัด (มหาชน) และบริษัทในเครือ เพื่อใช้สำหรับบุคลากรภายในและลูกค้าที่ใช้บริการขององค์กร',
-    author: 'NEXPIE Company',
-    version: '1.2.0'
-  }
- 
+          {
+            name: 'NETPIE',
+            iconUrl: 'https://github.com/chavee/microBlock-NETPIE-extension/raw/master//static/icon.png',
+            description: 'Module to connect to NETPIE IoT platform. Include shadow, messeging, feed and push notification.',
+            author: 'NEXPIE Company',
+            version: '1.5.1'
+          },
+          {
+            name: 'One Platform',
+            iconUrl: 'https://chat.one.th/static/img/homepage/icon/one2x.png',
+            description: 'แอปพลิเคชันสำหรับรวบรวมบริการของบริษัท อินเทอร์เน็ตประเทศไทย จำกัด (มหาชน) และบริษัทในเครือ เพื่อใช้สำหรับบุคลากรภายในและลูกค้าที่ใช้บริการขององค์กร',
+            author: 'NEXPIE Company',
+            version: '1.2.0'
+          },
+          {
+            name: 'WattVision',
+            iconUrl: 'https://scontent.fbkk27-1.fna.fbcdn.net/v/t39.30808-6/299640605_199502952429758_3205004430906398506_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=U2RjlpeXXWQQ7kNvwHWY35d&_nc_oc=AdklfrWp7WdUZvcwnUSxCFmcmif_VGuZONqDE9S74_A0yrv-Gbs0O6X_yWSlltGfRa0&_nc_zt=23&_nc_ht=scontent.fbkk27-1.fna&_nc_gid=IrLIq5sda4VFXt8Lfm_sQg&oh=00_AfFxz-Ae5zc8XxM_mJDIpclFTGPgN-yWvearB_BCjycm9A&oe=680772A6',
+            description: 'Wattvision is a revolutionary sensor and app that gives you real-time feedback on your energy use so you can save money and the planet. It’s like a FitBit for home energy usage.',
+            author: 'NEXPIE Company',
+            version: '1.1.5'
+          },
+          {
+            name: 'Modbus',
+            iconUrl: 'https://lh4.googleusercontent.com/proxy/igzgEq5lyINrNdkLF3JqC9qafsbZETw16xjsfVEfSRRExtiCAl1UHUEIOYYvb0dj0D_CIMzXVh9tgwaJ0h1zFWm3eBhyTmeBMx1Q-gBYYMie6xN5rBcMTzs',
+            description: 'Modbus or MODBUS is a client/server data communications protocol in the application layer. It was originally designed for use with programmable logic',
+            author: 'NEXPIE Company',
+            version: '3.5.3'
+          },
+          {
+            name: 'Mongo Client',
+            iconUrl: 'https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg',
+            description: 'MongoDB Explained. MongoDB is a NoSQL database that uses a document-oriented data model, where each record is a document stored in a collection, instead of the rows and columns common to popular relational databases',
+            author: 'NEXPIE Company',
+            version: '2.0.1'
+          },
+          {
+            name: 'MySQL Client',
+            iconUrl: 'https://img.icons8.com/?size=160&id=rgPSE6nAB766&format=png',
+            description: 'MySQL is an open source RDBMS that uses SQL to create and manage databases. As a relational database, MySQL stores data in tables of rows and columns organized into schemas. A schema defines how data is organized and stored and describes the relationship among various tables.',
+            author: 'NEXPIE Company',
+            version: '1.0.3'
+          }
 ]
