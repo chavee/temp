@@ -9,11 +9,11 @@
           },
           {
             name: 'One Platform',
-            packageName: 'flowstack-oneplatform',
+            packageName: 'node-red-contrib-node-line-api',
             iconUrl: 'https://chat.one.th/static/img/homepage/icon/one2x.png',
             description: 'แอปพลิเคชันสำหรับรวบรวมบริการของบริษัท อินเทอร์เน็ตประเทศไทย จำกัด (มหาชน) และบริษัทในเครือ เพื่อใช้สำหรับบุคลากรภายในและลูกค้าที่ใช้บริการขององค์กร',
             author: 'NEXPIE Company',
-            version: '1.2.0'
+            version: '0.8.10'
           },
           {
             name: 'WattVision',
