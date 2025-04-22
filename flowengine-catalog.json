@@ -17,6 +17,17 @@
             version: '0.8.10'
           },
           {
+            name: 'Process Resources',
+            packageName: 'node-red-contrib-process-resources',
+            iconUrl: 'https://cdn-icons-png.flaticon.com/512/8649/8649230.png',
+            description: 'Process module.',
+            author: 'NEXPIE Company',
+            version: '1.1.0',
+            repository: 'git+https://git.nexiiot.io/flowmodule/wattvision#1.1.0'
+          },
+
+          
+          {
             name: 'WattVision',
             packageName: 'flowstack-wattvision',
             iconUrl: 'https://scontent.fbkk27-1.fna.fbcdn.net/v/t39.30808-6/299640605_199502952429758_3205004430906398506_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=U2RjlpeXXWQQ7kNvwHWY35d&_nc_oc=AdklfrWp7WdUZvcwnUSxCFmcmif_VGuZONqDE9S74_A0yrv-Gbs0O6X_yWSlltGfRa0&_nc_zt=23&_nc_ht=scontent.fbkk27-1.fna&_nc_gid=IrLIq5sda4VFXt8Lfm_sQg&oh=00_AfFxz-Ae5zc8XxM_mJDIpclFTGPgN-yWvearB_BCjycm9A&oe=680772A6',
