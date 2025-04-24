@@ -9,25 +9,6 @@
             version: '1.4.4'
           },
           {
-            name: 'Process Resources',
-            packageName: 'node-red-contrib-process-resources',
-            iconUrl: 'https://cdn-icons-png.flaticon.com/512/8649/8649230.png',
-            description: 'Process module.',
-            author: 'NEXPIE Company',
-            version: '1.1.0'
-          },          
-
-          {
-            name: 'X Resources',
-            packageName: 'node-red-contrib-process-resources',
-            iconUrl: 'https://cdn-icons-png.flaticon.com/512/8649/8649230.png',
-            description: 'Process module.',
-            author: 'NEXPIE Company',
-            version: '1.0.0'
-          },          
-         
-          
-          {
             name: 'WattVision',
             packageName: 'flowstack-wattvision',
             iconUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcCoZAGEA9_KmJP42Ujfl4_4ibCRaJfh-y0Q&s',
