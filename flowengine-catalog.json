@@ -1,7 +1,7 @@
 [
           {
             name: 'NETPIE',
-            packageName: 'node-nexpie',
+            packageName: 'flowstack-nexpie',
             iconUrl: 'https://github.com/chavee/microBlock-NETPIE-extension/raw/master//static/icon.png',
             description: 'Module to connect to NETPIE / NEXIIOT IoT platform. Include shadow, messeging, feed and push notification.',
             author: 'NEXPIE Company',
