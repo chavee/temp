@@ -51,7 +51,7 @@
           {
             name: 'Jupyter Client',
             packageName: 'flowstack-jupyter',
-            iconUrl: 'https://gimgs2.nohat.cc/thumb/f/640/siks-cbs-datacamp-spark-tutorial-notebook-jupyter-notebook-icon--m2H7K9d3N4Z5i8G6.jpg',
+            iconUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png',
             description: 'Jupyter is the latest web-based interactive development environment for notebooks, code, and data.',
             author: 'NEXPIE Company',
             version: '1.0.3'
