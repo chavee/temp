@@ -31,14 +31,7 @@
             description: 'Modbus or MODBUS is a client/server data communications protocol in the application layer. It was originally designed for use with programmable logic',
             author: 'NEXPIE Company',
             version: '5.43.0'
-          },
-          {
-            name: 'LINE API',
-            packageName: 'node-red-contrib-node-line-api',
-            iconUrl: 'https://upload.wikimedia.org/wikipedia/commons/2/2e/LINE_New_App_Icon_%282020-12%29.png',
-            description: 'Line offers free texting, voice messages, and video calls, all within its own nifty social network. With the app\'s uncluttered, friendly interface, it\'s simple to start group chats with close friends, receive notifications from celebrities you follow, or post daily highlights to your timeline.',
-            author: 'NEXPIE Company',
-            version: '0.8.10'
           }
+
 
 ]
