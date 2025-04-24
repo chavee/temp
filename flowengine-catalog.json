@@ -46,7 +46,7 @@
             iconUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSszX6w0VcakR5itZUsa3Vi13p-2Mtk6QlhCA&s',
             description: 'Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.',
             author: 'NEXPIE Company',
-            version: '1.22.1'
+            version: '16.3.1'
           }
 
 
