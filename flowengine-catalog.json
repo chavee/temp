@@ -26,10 +26,10 @@
           },
           {
             name: 'Modbus',
-            packageName: 'flowstack-serial',
+            packageName: 'node-red-contrib-modbus',
             iconUrl: 'https://norvi.lk/wp-content/webp-express/webp-images/uploads/2023/12/modbus-logo-png.png.webp',
             description: 'Modbus or MODBUS is a client/server data communications protocol in the application layer. It was originally designed for use with programmable logic',
             author: 'NEXPIE Company',
-            version: '3.5.3'
+            version: '5.43.0'
           }
 ]
