@@ -1,0 +1,64 @@
+[
+          {
+            name: 'NETPIE',
+            packageName: 'flowstack-nexpie',
+            iconUrl: 'https://github.com/chavee/microBlock-NETPIE-extension/raw/master//static/icon.png',
+            description: 'Module to connect to NETPIE / NEXIIOT IoT platform. Include shadow, messeging, feed and push notification.',
+            author: 'NEXPIE Company',
+            repository: '',
+            version: '1.4.4'
+          },
+          {
+            name: 'Process Resources',
+            packageName: 'node-red-contrib-process-resources',
+            iconUrl: 'https://cdn-icons-png.flaticon.com/512/8649/8649230.png',
+            description: 'Process module.',
+            author: 'NEXPIE Company',
+            version: '1.1.0'
+          },          
+
+          {
+            name: 'X Resources',
+            packageName: 'node-red-contrib-process-resources',
+            iconUrl: 'https://cdn-icons-png.flaticon.com/512/8649/8649230.png',
+            description: 'Process module.',
+            author: 'NEXPIE Company',
+            version: '1.0.0'
+          },          
+         
+          
+          {
+            name: 'WattVision',
+            packageName: 'flowstack-wattvision',
+            iconUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcCoZAGEA9_KmJP42Ujfl4_4ibCRaJfh-y0Q&s',
+            description: 'Wattvision is a revolutionary sensor and app that gives you real-time feedback on your energy use so you can save money and the planet. It’s like a FitBit for home energy usage.',
+            author: 'NEXPIE Company',
+            version: '1.0.1'
+          },
+          {
+            name: 'Modbus',
+            packageName: 'node-red-contrib-modbus',
+            iconUrl: 'https://norvi.lk/wp-content/webp-express/webp-images/uploads/2023/12/modbus-logo-png.png.webp',
+            description: 'Modbus or MODBUS is a client/server data communications protocol in the application layer. It was originally designed for use with programmable logic',
+            author: 'NEXPIE Company',
+            version: '5.43.0'
+          },
+          {
+            name: 'LINE',
+            packageName: 'node-red-contrib-node-line-api',
+            iconUrl: 'https://upload.wikimedia.org/wikipedia/commons/2/2e/LINE_New_App_Icon_%282020-12%29.png',
+            description: 'Modbus or MODBUS is a client/server data communications protocol in the application layer. It was originally designed for use with programmable logic',
+            author: 'NEXPIE Company',
+            version: '0.8.10'
+          },
+          {
+            name: 'Telegram',
+            packageName: 'node-red-contrib-telegrambot',
+            iconUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSszX6w0VcakR5itZUsa3Vi13p-2Mtk6QlhCA&s',
+            description: 'Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.',
+            author: 'NEXPIE Company',
+            version: '16.3.1'
+          }
+
+
+]
