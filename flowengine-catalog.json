@@ -33,12 +33,20 @@
             version: '5.43.0'
           },
           {
-            name: 'LINE API',
+            name: 'LINE',
             packageName: 'node-red-contrib-node-line-api',
             iconUrl: 'https://upload.wikimedia.org/wikipedia/commons/2/2e/LINE_New_App_Icon_%282020-12%29.png',
             description: 'Modbus or MODBUS is a client/server data communications protocol in the application layer. It was originally designed for use with programmable logic',
             author: 'NEXPIE Company',
             version: '0.8.10'
+          },
+          {
+            name: 'Telegram',
+            packageName: 'node-red-contrib-telegrambot',
+            iconUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSszX6w0VcakR5itZUsa3Vi13p-2Mtk6QlhCA&s',
+            description: 'Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.',
+            author: 'NEXPIE Company',
+            version: '1.22.1'
           }
 
 
