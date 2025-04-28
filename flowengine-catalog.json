@@ -46,7 +46,7 @@
             iconUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-postgresql-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175119.png?f=webp',
             description: 'PostgreSQL is a powerful object-relational database system that uses and extends the SQL language combined with many features that safely store and scale the most complicated data workloads.',
             author: 'NEXPIE Company',
-            version: '0.14.1'
+            version: '1.0.1'
           },
           {
             name: 'Jupyter Client',
