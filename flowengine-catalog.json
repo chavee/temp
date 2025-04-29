@@ -54,7 +54,7 @@
             iconUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png',
             description: 'Jupyter is the latest web-based interactive development environment for notebooks, code, and data.',
             author: 'NEXPIE Company',
-            version: '1.0.3'
+            version: '1.0.4'
           }
 
 
