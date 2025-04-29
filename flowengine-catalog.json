@@ -4,7 +4,7 @@
             packageName: 'flowstack-nexpie',
             iconUrl: 'https://github.com/chavee/microBlock-NETPIE-extension/raw/master//static/icon.png',
             description: 'Module to connect to NETPIE / NEXIIOT IoT platform. Include shadow, messeging, feed and push notification.',
-            author: 'NEXPIE Company',
+            author: 'NEXPIE',
             repository: '',
             version: '1.4.4'
           },
@@ -13,7 +13,7 @@
             packageName: 'flowstack-wattvision',
             iconUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcCoZAGEA9_KmJP42Ujfl4_4ibCRaJfh-y0Q&s',
             description: 'Wattvision is a revolutionary sensor and app that gives you real-time feedback on your energy use so you can save money and the planet. It’s like a FitBit for home energy usage.',
-            author: 'NEXPIE Company',
+            author: 'NEXPIE',
             version: '1.0.7'
           },
           {
@@ -21,7 +21,7 @@
             packageName: 'node-red-contrib-modbus',
             iconUrl: 'https://norvi.lk/wp-content/webp-express/webp-images/uploads/2023/12/modbus-logo-png.png.webp',
             description: 'Modbus or MODBUS is a client/server data communications protocol in the application layer. It was originally designed for use with programmable logic',
-            author: 'NEXPIE Company',
+            author: 'Node-RED',
             version: '5.43.0'
           },
           {
@@ -29,7 +29,7 @@
             packageName: 'node-red-contrib-node-line-api',
             iconUrl: 'https://upload.wikimedia.org/wikipedia/commons/2/2e/LINE_New_App_Icon_%282020-12%29.png',
             description: 'Modbus or MODBUS is a client/server data communications protocol in the application layer. It was originally designed for use with programmable logic',
-            author: 'NEXPIE Company',
+            author: 'Node-RED',
             version: '0.8.10'
           },
           {
@@ -37,7 +37,7 @@
             packageName: 'node-red-contrib-telegrambot',
             iconUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSszX6w0VcakR5itZUsa3Vi13p-2Mtk6QlhCA&s',
             description: 'Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.',
-            author: 'NEXPIE Company',
+            author: 'Node-RED',
             version: '16.3.1'
           },
           {
@@ -45,7 +45,7 @@
             packageName: 'flowstack-postgres',
             iconUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-postgresql-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175119.png?f=webp',
             description: 'PostgreSQL is a powerful object-relational database system that uses and extends the SQL language combined with many features that safely store and scale the most complicated data workloads.',
-            author: 'NEXPIE Company',
+            author: 'Node-RED',
             version: '1.0.1'
           },
           {
@@ -53,7 +53,7 @@
             packageName: 'flowstack-jupyter',
             iconUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png',
             description: 'Jupyter is the latest web-based interactive development environment for notebooks, code, and data.',
-            author: 'NEXPIE Company',
+            author: 'NEXPIE',
             version: '1.0.4'
           }
 
