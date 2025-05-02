@@ -59,7 +59,7 @@
           {
             name: 'ZKTeco',
             packageName: 'flowstack-zkteco',
-            iconUrl: 'https://e7.pngegg.com/pngimages/1021/774/png-clipart-biometrics-access-control-zkteco-time-and-attendance-security-others-miscellaneous-company.png',
+            iconUrl: 'https://inwfile.com/s-aa/t4gi59.png',
             description: 'Allows seamless integration between Flowstack and ZKTeco biometric devices. This extension is designed to connect to a device, perform actions (like restarting, fetching users, or retrieving attendance logs), and optionally subscribe to real-time events such as check-ins.',
             author: 'NEXPIE',
             version: '1.0.2'
