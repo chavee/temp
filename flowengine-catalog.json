@@ -67,7 +67,7 @@
           {
             name: 'Dashboard UI-Image',
             packageName: '@flowfuse/node-red-dashboard-2-ui-image',
-            iconUrl: 'https://inwfile.com/s-aa/t4gi59.png',
+            iconUrl: 'https://pixsector.com/cache/517d8be6/av5c8336583e291842624.png',
             description: 'A widget to display image widget in a dashboard.',
             author: 'NEXPIE',
             version: '1.0.0'
