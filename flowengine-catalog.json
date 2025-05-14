@@ -5,7 +5,7 @@
             iconUrl: 'https://github.com/chavee/microBlock-NETPIE-extension/raw/master//static/icon.png',
             description: 'Module to connect to NETPIE / NEXIIOT IoT platform. Include shadow, messeging, feed and push notification.',
             author: 'NEXPIE',
-            repository: '',
+            category: 'IoT',
             version: '1.4.4'
           },
           {
@@ -14,6 +14,7 @@
             iconUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcCoZAGEA9_KmJP42Ujfl4_4ibCRaJfh-y0Q&s',
             description: 'Wattvision is a revolutionary sensor and app that gives you real-time feedback on your energy use so you can save money and the planet. It’s like a FitBit for home energy usage.',
             author: 'NEXPIE',
+            category: 'Industrial',
             version: '1.0.7'
           },
           {
@@ -22,6 +23,7 @@
             iconUrl: 'https://norvi.lk/wp-content/webp-express/webp-images/uploads/2023/12/modbus-logo-png.png.webp',
             description: 'Modbus or MODBUS is a client/server data communications protocol in the application layer. It was originally designed for use with programmable logic',
             author: 'Node-RED',
+            category: 'Industrial',
             version: '5.43.0'
           },
           {
@@ -30,6 +32,7 @@
             iconUrl: 'https://upload.wikimedia.org/wikipedia/commons/2/2e/LINE_New_App_Icon_%282020-12%29.png',
             description: 'Modbus or MODBUS is a client/server data communications protocol in the application layer. It was originally designed for use with programmable logic',
             author: 'Node-RED',
+            category: 'Communication',
             version: '0.8.10'
           },
           {
@@ -38,6 +41,7 @@
             iconUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSszX6w0VcakR5itZUsa3Vi13p-2Mtk6QlhCA&s',
             description: 'Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.',
             author: 'Node-RED',
+            category: 'Communication',
             version: '16.3.1'
           },
           {
@@ -46,6 +50,7 @@
             iconUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-postgresql-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175119.png?f=webp',
             description: 'PostgreSQL is a powerful object-relational database system that uses and extends the SQL language combined with many features that safely store and scale the most complicated data workloads.',
             author: 'Node-RED',
+            category: 'Data Storage',
             version: '1.0.1'
           },
           {
@@ -54,6 +59,7 @@
             iconUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png',
             description: 'Jupyter is the latest web-based interactive development environment for notebooks, code, and data.',
             author: 'NEXPIE',
+            category: 'Analytic',
             version: '1.0.4'
           },
           {
@@ -62,6 +68,7 @@
             iconUrl: 'https://inwfile.com/s-aa/t4gi59.png',
             description: 'Allows seamless integration between Flowstack and ZKTeco biometric devices. This extension is designed to connect to a device, perform actions (like restarting, fetching users, or retrieving attendance logs), and optionally subscribe to real-time events such as check-ins.',
             author: 'NEXPIE',
+            category: 'Office',
             version: '1.0.5'
           },
           {
@@ -70,6 +77,7 @@
             iconUrl: 'https://pixsector.com/cache/517d8be6/av5c8336583e291842624.png',
             description: 'A widget to display image widget in a dashboard.',
             author: 'NEXPIE',
+            category: 'Visualization',
             version: '1.0.0'
           }
 
